@@ -15,8 +15,9 @@ Welcome to Lex Learn Together </h1> </p>
 Subjects:
 </h3></p>
 
-<a href = "#" type="button" class="btn btn-primary btn-lg btn-block"> Math </a>
-<a href = "#" type="button" class="btn btn-primary btn-lg btn-block"> World Languages </a>
+        <!-- ADD SUBJECTS HERE AND CHANGE HREF -->
+        <a href = "#" type="button" class="btn btn-primary btn-lg btn-block"> Math </a>
+        <a href = "#" type="button" class="btn btn-primary btn-lg btn-block"> World Languages </a>
 
 
 
