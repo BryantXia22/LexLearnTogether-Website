@@ -12,7 +12,7 @@
 <font size="100" face="Courier New">
 <table Align="center", Border="10", width="75%", height="40%", style = "background-color:black">
 <TR>
-<TD colspan="3"> <center> <	 size="18"> <div>  Pick a Project </div> 
+<TD colspan="3" > <center> <font size = 18> <div>  Pick a Project </div> 
 </center> </TD>
 </TR>
 <TR>
