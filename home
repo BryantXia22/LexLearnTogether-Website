@@ -1,0 +1,24 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<title> Lex Learn Together </title>
+</head>
+
+<body style = "background: url(https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?cs=srgb&dl=books-in-black-wooden-book-shelf-159711.jpg&fm=jpg);">
+<br><br>
+
+<p ><h1 style = "text-align: center; color: white; font-size:50;">
+Welcome to Lex Learn Together </h1> </p>
+<br><br>
+
+<p><h3 style= "text-align: center; color: white; font-size:25;">
+Subjects:
+</h3></p>
+
+<a href = "#" type="button" class="btn btn-primary btn-lg btn-block"> Math </a>
+<a href = "#" type="button" class="btn btn-primary btn-lg btn-block"> World Languages </a>
+
+
+
+</body>
+</html>
