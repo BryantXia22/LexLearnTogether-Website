@@ -1,20 +1,20 @@
 <html>
+
 <head>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 <title> Lex Learn Together </title>
 </head>
 
 <body style = "background: url(https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?cs=srgb&dl=books-in-black-wooden-book-shelf-159711.jpg&fm=jpg);">
-<br><br>
-
 <p ><h1 style = "text-align: center; color: white; font-size:60;"> <font face="Monaco">
 Welcome to
 <br> Lex Learn Together </h1> </p>
+
 <p><h3 style= "text-align: center; color: white; font-size:25;"> <font face="Calibri">
 Subjects:
-<br>
 <center>
-<table Align="center", width="75%", height="40%">
+
+<table Align="center", width="100%", height="45%">
 <tr>
 <td>
 <center>
@@ -50,11 +50,122 @@ Subjects:
   </text>
   </a>
 </svg>
-</tr>
 </td>
+<td>
+<center>
+<svg width="120" height="120">
+<a href = "#" type="button" class="btn btn-primary btn-lg btn-block" border="#3BC8E2" style="background-color: #63B6FF;">
+  <circle cx="60"
+          cy="60"
+          r="60" />
+		   <text x="60"
+        y="60"
+        fill="#FFFFFF"
+        text-anchor="middle"
+        alignment-baseline="middle">
+    Sciences
+  </text>
+  </a>
+</svg>
 </center>
-<table>
+</td>
+<td>
+<center>
+<svg width="120" height="120">
+ <a href = "#" type="button" class="btn btn-primary btn-lg btn-block" border="#3BC8E2" style="background-color: #63B6FF;">
+  <circle cx="60"
+          cy="60"
+          r="60" />
+		   <text x="60"
+        y="60"
+        fill="#FFFFFF"
+        text-anchor="middle"
+        alignment-baseline="middle">
+    History
+  </text>
+  </a>
+</svg>
 </center>
+</tr>
+<br>
+<br>
+<br>
+<tr>
+<td>
+<center>
+<svg width="120" height="120">
+<a href = "#" type="button" class="btn btn-primary btn-lg btn-block" border="#3BC8E2" style="background-color: #63B6FF;">
+  <circle cx="60"
+          cy="60"
+          r="60" />
+		   <text x="60"
+        y="60"
+        fill="#FFFFFF"
+        text-anchor="middle"
+        alignment-baseline="middle">
+    Comp Sci <br>
+  </text>
+  </a>
+</svg>
+</center>
+</td>
+<td>
+<center>
+<svg width="120" height="120">
+ <a href = "#" type="button" class="btn btn-primary btn-lg btn-block" border="#3BC8E2" style="background-color: #63B6FF;">
+  <circle cx="60"
+          cy="60"
+          r="60" />
+		   <text x="60"
+        y="60"
+        fill="#FFFFFF"
+        text-anchor="middle"
+        alignment-baseline="middle">
+    English
+  </text>
+  </a>
+</svg>
+</td>
+<td>
+<center>
+<svg width="120" height="120">
+<a href = "#" type="button" class="btn btn-primary btn-lg btn-block" border="#3BC8E2" style="background-color: #63B6FF;">
+  <circle cx="60"
+          cy="60"
+          r="60" />
+		   <text x="60"
+        y="60"
+        fill="#FFFFFF"
+        text-anchor="middle"
+        alignment-baseline="middle">
+    Arts and Crafts
+  </text>
+  </a>
+</svg>
+</center>
+</td>
+<td>
+<center>
+<svg width="120" height="120">
+ <a href = "#" type="button" class="btn btn-primary btn-lg btn-block" border="#3BC8E2" style="background-color: #63B6FF;">
+  <circle cx="60"
+          cy="60"
+          r="60" />
+		   <text x="60"
+        y="60"
+        fill="#FFFFFF"
+        text-anchor="middle"
+        alignment-baseline="middle">
+    Health
+  </text>
+  </a>
+</svg>
+</center>
+</tr>
+</table>
+
+<br><br>
+<a href = "https://forms.gle/hLeiZNpibrJFTusQ8" type="button" class="btn btn-primary btn-lg btn-block" border="#3BC8E2" style="background-color: #63B6FF;"> Teachers, submit projects here </a>
 </h3></p>
 </body>
 </html>
