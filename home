@@ -19,7 +19,7 @@ Subjects:
 <td>
 <center>
 <svg width="120" height="120">
-<a href = "#">
+<a href = "WorldLanguage.html">
   <circle cx="60"
           cy="60"
           r="60" />
@@ -28,7 +28,7 @@ Subjects:
         fill="#FFFFFF"
         text-anchor="middle"
         alignment-baseline="middle">
-    World Languages
+    World Language
   </text>
   </a>
 </svg>
@@ -37,7 +37,7 @@ Subjects:
 <td>
 <center>
 <svg width="120" height="120">
-<a href = "#">
+<a href = "Math.html">
   <circle cx="60"
           cy="60"
           r="60" />
@@ -54,7 +54,7 @@ Subjects:
 <td>
 <center>
 <svg width="120" height="120">
-<a href = "#">  <circle cx="60"
+<a href = "Science.html">  <circle cx="60"
           cy="60"
           r="60" />
 		   <text x="60"
@@ -62,7 +62,7 @@ Subjects:
         fill="#FFFFFF"
         text-anchor="middle"
         alignment-baseline="middle">
-    Sciences
+    Science
   </text>
   </a>
 </svg>
@@ -71,7 +71,7 @@ Subjects:
 <td>
 <center>
 <svg width="120" height="120">
-<a href = "#">  <circle cx="60"
+<a href = "History.html">  <circle cx="60"
           cy="60"
           r="60" />
 		   <text x="60"
@@ -92,7 +92,7 @@ Subjects:
 <td>
 <center>
 <svg width="120" height="120">
-<a href = "#">  <circle cx="60"
+<a href = "CompSci.html">  <circle cx="60"
           cy="60"
           r="60" />
 		   <text x="60"
@@ -109,7 +109,7 @@ Subjects:
 <td>
 <center>
 <svg width="120" height="120">
-<a href = "#">  <circle cx="60"
+<a href = "English.html">  <circle cx="60"
           cy="60"
           r="60" />
 		   <text x="60"
@@ -125,7 +125,7 @@ Subjects:
 <td>
 <center>
 <svg width="120" height="120">
-<a href = "#">  <circle cx="60"
+<a href = "ArtsAndCrafts.html">  <circle cx="60"
           cy="60"
           r="60" />
 		   <text x="60"
@@ -142,7 +142,7 @@ Subjects:
 <td>
 <center>
 <svg width="120" height="120">
-<a href = "#">  <circle cx="60"
+<a href = "Health.html">  <circle cx="60"
           cy="60"
           r="60" />
 		   <text x="60"
