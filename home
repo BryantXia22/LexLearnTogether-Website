@@ -7,19 +7,54 @@
 <body style = "background: url(https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?cs=srgb&dl=books-in-black-wooden-book-shelf-159711.jpg&fm=jpg);">
 <br><br>
 
-<p ><h1 style = "text-align: center; color: white; font-size:50;">
-Welcome to Lex Learn Together </h1> </p>
-<br><br>
-
-<p><h3 style= "text-align: center; color: white; font-size:25;">
+<p ><h1 style = "text-align: center; color: white; font-size:60;"> <font face="Monaco">
+Welcome to
+<br> Lex Learn Together </h1> </p>
+<p><h3 style= "text-align: center; color: white; font-size:25;"> <font face="Calibri">
 Subjects:
+<br>
+<center>
+<table Align="center", width="75%", height="40%">
+<tr>
+<td>
+<center>
+<svg width="120" height="120">
+<a href = "#" type="button" class="btn btn-primary btn-lg btn-block" border="#3BC8E2" style="background-color: #63B6FF;">
+  <circle cx="60"
+          cy="60"
+          r="60" />
+		   <text x="60"
+        y="60"
+        fill="#FFFFFF"
+        text-anchor="middle"
+        alignment-baseline="middle">
+    World Languages
+  </text>
+  </a>
+</svg>
+</center>
+</td>
+<td>
+<center>
+<svg width="120" height="120">
+ <a href = "#" type="button" class="btn btn-primary btn-lg btn-block" border="#3BC8E2" style="background-color: #63B6FF;">
+  <circle cx="60"
+          cy="60"
+          r="60" />
+		   <text x="60"
+        y="60"
+        fill="#FFFFFF"
+        text-anchor="middle"
+        alignment-baseline="middle">
+    Math
+  </text>
+  </a>
+</svg>
+</tr>
+</td>
+</center>
+<table>
+</center>
 </h3></p>
-
-        <!-- ADD SUBJECTS HERE AND CHANGE HREF -->
-        <a href = "#" type="button" class="btn btn-primary btn-lg btn-block"> Math </a>
-        <a href = "#" type="button" class="btn btn-primary btn-lg btn-block"> World Languages </a>
-
-
-
 </body>
 </html>
