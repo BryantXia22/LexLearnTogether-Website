@@ -19,7 +19,7 @@ Subjects:
 <td>
 <center>
 <svg width="120" height="120">
-<a href = "#" type="button" class="btn btn-primary btn-lg btn-block" border="#3BC8E2" style="background-color: #63B6FF;">
+<a href = "#">
   <circle cx="60"
           cy="60"
           r="60" />
@@ -37,7 +37,7 @@ Subjects:
 <td>
 <center>
 <svg width="120" height="120">
- <a href = "#" type="button" class="btn btn-primary btn-lg btn-block" border="#3BC8E2" style="background-color: #63B6FF;">
+<a href = "#">
   <circle cx="60"
           cy="60"
           r="60" />
@@ -54,8 +54,7 @@ Subjects:
 <td>
 <center>
 <svg width="120" height="120">
-<a href = "#" type="button" class="btn btn-primary btn-lg btn-block" border="#3BC8E2" style="background-color: #63B6FF;">
-  <circle cx="60"
+<a href = "#">  <circle cx="60"
           cy="60"
           r="60" />
 		   <text x="60"
@@ -72,8 +71,7 @@ Subjects:
 <td>
 <center>
 <svg width="120" height="120">
- <a href = "#" type="button" class="btn btn-primary btn-lg btn-block" border="#3BC8E2" style="background-color: #63B6FF;">
-  <circle cx="60"
+<a href = "#">  <circle cx="60"
           cy="60"
           r="60" />
 		   <text x="60"
@@ -94,8 +92,7 @@ Subjects:
 <td>
 <center>
 <svg width="120" height="120">
-<a href = "#" type="button" class="btn btn-primary btn-lg btn-block" border="#3BC8E2" style="background-color: #63B6FF;">
-  <circle cx="60"
+<a href = "#">  <circle cx="60"
           cy="60"
           r="60" />
 		   <text x="60"
@@ -112,8 +109,7 @@ Subjects:
 <td>
 <center>
 <svg width="120" height="120">
- <a href = "#" type="button" class="btn btn-primary btn-lg btn-block" border="#3BC8E2" style="background-color: #63B6FF;">
-  <circle cx="60"
+<a href = "#">  <circle cx="60"
           cy="60"
           r="60" />
 		   <text x="60"
@@ -129,8 +125,7 @@ Subjects:
 <td>
 <center>
 <svg width="120" height="120">
-<a href = "#" type="button" class="btn btn-primary btn-lg btn-block" border="#3BC8E2" style="background-color: #63B6FF;">
-  <circle cx="60"
+<a href = "#">  <circle cx="60"
           cy="60"
           r="60" />
 		   <text x="60"
@@ -147,8 +142,7 @@ Subjects:
 <td>
 <center>
 <svg width="120" height="120">
- <a href = "#" type="button" class="btn btn-primary btn-lg btn-block" border="#3BC8E2" style="background-color: #63B6FF;">
-  <circle cx="60"
+<a href = "#">  <circle cx="60"
           cy="60"
           r="60" />
 		   <text x="60"
@@ -165,7 +159,7 @@ Subjects:
 </table>
 
 <br><br>
-<a href = "https://forms.gle/hLeiZNpibrJFTusQ8" type="button" class="btn btn-primary btn-lg btn-block" border="#3BC8E2" style="background-color: #63B6FF;"> Teachers, submit projects here </a>
+<a href = "https://forms.gle/hLeiZNpibrJFTusQ8" type="button" class="btn btn-primary btn-lg btn-block" border="#3BC8E2" style="background-color: #63B6FF;"> Submit Project </a>
 </h3></p>
 </body>
 </html>
