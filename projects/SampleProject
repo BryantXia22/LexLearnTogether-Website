@@ -1,5 +1,62 @@
 <html>
-<head> <title> Sample Project </title> </head>
+<head>
+<title> Sample Project </title>
+<style>
+body {
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+p {
+  margin-left: 100px;
+}
+li{
+	margin-left: 100px;
+}
+</style>
+</head>
 
+<body> 
+<h1> <center> Project Name </center> </h1>
+<center> By name </center>
+<br>
+
+<h3><p>
+Prerequisites
+</p></h3>
+<ul>
+<li>  Proficiency in stuff  </li> 
+</ul>
+
+<br>
+<h3><p>
+Materials
+</p></h3>
+<ul>
+<li>  Markers  </li>
+<li>  Paper  </li>
+</ul>
+
+
+<br>
+<h3><p>
+Directions
+</p></h3>
+<ol>
+<li>  Uncap marker.  </li>
+<li>  Put marker to paper  </li>
+</ol>
+
+<br>
+<h3><p>
+Final Project
+</p></h3>
+<img src = "https://images.unsplash.com/photo-1585920577773-78c4230c8bac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" alt = "MARKERS!!!!">
+
+
+<br><br>
+
+
+<body>
 
 </html>
